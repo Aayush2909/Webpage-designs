@@ -1,0 +1,42 @@
+/* CSS rules */
+
+
+body {
+    background: #def0f6;
+    font-family: 'Comic Sans MS';
+    text-align: center;
+    margin: auto;
+}
+
+.img-div{
+    height: auto;
+    width: 100%;
+    background: #e9f0f3;
+    border-radius: 10px;
+}
+
+
+img {
+    width: 75%;
+    height: auto;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.timeline {
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    background: #cadbe1;
+    margin: 50px 100px 30px 100px; 
+    border-radius: 50px;
+}
+
+.timeline ul{
+    text-align: left;
+}
+
+.statement {
+    font-style: italic;
+    margin-right: 50px; 
+    margin-left: 50px;
+}
